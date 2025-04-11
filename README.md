@@ -1,6 +1,6 @@
 # DGU43
 # Projeto: Análise de Dados da Câmara dos Deputados
-#####Este projeto consiste em um pipeline de engenharia de dados completo para extrair, processar, analisar e visualizar dados públicos da Câmara dos Deputados do Brasil. Utilizamos a API de Dados Abertos da Câmara para obter informações sobre deputados, proposições legislativas e votações.
+Este projeto consiste em um pipeline de engenharia de dados completo para extrair, processar, analisar e visualizar dados públicos da Câmara dos Deputados do Brasil. Utilizamos a API de Dados Abertos da Câmara para obter informações sobre deputados, proposições legislativas e votações.
 ###Arquitetura
 O projeto segue uma arquitetura de engenharia de dados moderna:
 - Extração de Dados: API REST dos Dados Abertos da Câmara
