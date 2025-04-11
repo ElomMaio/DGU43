@@ -2,7 +2,8 @@
 # Projeto: Análise de Dados da Câmara dos Deputados
 Este projeto consiste em um pipeline de engenharia de dados completo para extrair, processar, analisar e visualizar dados públicos da Câmara dos Deputados do Brasil. Utilizamos a API de Dados Abertos da Câmara para obter informações sobre deputados, proposições legislativas e votações.
 
-Arquitetura
+Arquitetura:
+
 O projeto segue uma arquitetura de engenharia de dados moderna:
 - Extração de Dados: API REST dos Dados Abertos da Câmara
 - Processamento: Apache Airflow para orquestração de pipelines
@@ -10,7 +11,7 @@ O projeto segue uma arquitetura de engenharia de dados moderna:
 - Análise: Python (Pandas) para transformação e análise
 - Visualização: Streamlit para dashboard interativo e/ou Apache Superset
 
-Componentes
+Componentes:
 1. Extração de Dados
 Utilizamos a API de Dados Abertos da Câmara (https://dadosabertos.camara.leg.br/swagger/api.html) para extrair:
 
